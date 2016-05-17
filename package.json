@@ -1,10 +1,10 @@
 {
   "name": "browserify-babel-demo",
   "version": "1.0.0",
-  "description": "es6 boilerplate setup for basic JS work.",
+  "description": "BASIC GAME CODE IN ES6 JAVASCRIPT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pindiespace/es6-boilerplate"
+    "url": "https://github.com/hanasalmon/zookillsoccer.git"
   },
   "main": "index.js",
   "dependencies": {
